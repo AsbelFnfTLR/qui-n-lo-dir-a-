@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Public by antonio fnf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Public0000" x="0" y="1422" width="2590" height="445" frameX="0" frameY="-23" frameWidth="2590" frameHeight="492"/>
+	<SubTexture name="Public0001" x="0" y="492" width="2590" height="474" frameX="0" frameY="-9" frameWidth="2590" frameHeight="492"/>
+	<SubTexture name="Public0002" x="0" y="0" width="2590" height="492"/>
+	<SubTexture name="Public0003" x="0" y="966" width="2590" height="456" frameX="0" frameY="-18" frameWidth="2590" frameHeight="492"/>
+	<SubTexture name="Public0004" x="0" y="1422" width="2590" height="445" frameX="0" frameY="-23" frameWidth="2590" frameHeight="492"/>
+</TextureAtlas>
