@@ -1,0 +1,54 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "gah you think you're hot stuff?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dad"
+		},
+		{
+			"expression": "talk",
+			"text": "If you can beat me here...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dad"
+		},
+		{
+			"expression": "talk",
+			"text": "Only then I will even CONSIDER letting you ndate my daughter",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dad"
+		},
+		{
+			"expression": "confused",
+			"text": "Dad, don't be so hard on him.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "be hard on him? okay",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dad"
+		},
+		{
+			"expression": "talk",
+			"text": "shit",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok enough of games let's get this over with"
+		}
+	]
+}
