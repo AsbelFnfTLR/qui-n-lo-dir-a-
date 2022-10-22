@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "gah you think you're hot stuff?",
+			"boxState": "normal",
+			"portrait": "dad",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "If you can beat me here...",
+			"boxState": "normal",
+			"portrait": "dad",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Only then I will even CONSIDER letting you ndate my daughter",
+			"boxState": "normal",
+			"portrait": "dad",
+			"speed": 0.05
+		}
+	]
+}
