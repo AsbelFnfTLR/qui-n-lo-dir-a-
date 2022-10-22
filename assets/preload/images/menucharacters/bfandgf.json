@@ -1,0 +1,11 @@
+{
+	"idle_anim": "bf and gf",
+	"confirm_anim": "HEY!!!",
+	"position": [
+		210,
+		160
+	],
+	"scale": 0.57,
+	"flipX": false,
+	"image": "bf and gf menu"
+}
