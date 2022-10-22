@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "hey! you're cute, heres how you rap...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "beeeeeeeeeeeeeeep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.02
+		},
+		{
+			"expression": "talk",
+			"text": "press a, s, w and d to press the arrows",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "although if you don't like it you can change the controls in options",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}
