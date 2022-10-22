@@ -1,0 +1,26 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "not too shabby boy",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dad"
+		},
+		{
+			"expression": "talk",
+			"text": "but you need more than that",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dad"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		}
+	]
+}
