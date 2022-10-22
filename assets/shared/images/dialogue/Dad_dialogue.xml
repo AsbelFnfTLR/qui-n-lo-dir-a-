@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dad_dialogue by antonio fnf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DAD TALK LOOP0000" x="0" y="0" width="360" height="478" frameX="-2" frameY="0" frameWidth="362" frameHeight="478"/>
+	<SubTexture name="DAD TALK LOOP0001" x="0" y="0" width="360" height="478" frameX="-2" frameY="0" frameWidth="362" frameHeight="478"/>
+	<SubTexture name="DAD TALK LOOP0002" x="360" y="0" width="360" height="478" frameX="-2" frameY="0" frameWidth="362" frameHeight="478"/>
+	<SubTexture name="DAD TALK LOOP0003" x="720" y="0" width="359" height="473" frameX="0" frameY="-2" frameWidth="362" frameHeight="478"/>
+	<SubTexture name="DAD TALK LOOP0004" x="0" y="478" width="359" height="473" frameX="0" frameY="-2" frameWidth="362" frameHeight="478"/>
+	<SubTexture name="DAD TALK LOOP0005" x="0" y="478" width="359" height="473" frameX="0" frameY="-2" frameWidth="362" frameHeight="478"/>
+	<SubTexture name="DAD TALK LOOP0006" x="359" y="478" width="358" height="474" frameX="0" frameY="0" frameWidth="362" frameHeight="478"/>
+	<SubTexture name="DAD TALK LOOP0007" x="359" y="478" width="358" height="474" frameX="0" frameY="0" frameWidth="362" frameHeight="478"/>
+	<SubTexture name="DAD TALK LOOP0008" x="717" y="478" width="358" height="474" frameX="0" frameY="0" frameWidth="362" frameHeight="478"/>
+</TextureAtlas>

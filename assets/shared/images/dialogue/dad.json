@@ -1,0 +1,24 @@
+{
+	"position": [
+		120,
+		10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "dad_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-14
+			],
+			"loop_offsets": [
+				0,
+				-14
+			],
+			"anim": "talk",
+			"idle_name": "DAD TALK LOOP0012",
+			"loop_name": "DAD TALK LOOP"
+		}
+	]
+}
